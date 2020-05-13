@@ -1,0 +1,14 @@
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block; 
+	padding: 10px;
+	margin: 10px 10px;  /* istb one is top amd bottom and second one is right lefty bottom */
+	width: 33px;
+	height:55px; 	
+}
+p{
+	font-size: 20px;
+}
+span{
+	font-size:5rem; 	
+}
